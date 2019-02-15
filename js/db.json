@@ -1,0 +1,46 @@
+{
+  "House": [
+    {
+      "id": 1,
+      "name": "House1",
+      "city": "New York",
+	  "street": "Broadway",
+	  "apartment": "1",
+	  "description": "Самая четкая квартира на Бродвее",
+	  "square": "100",
+	  "square_room": "20",
+	  "square_kitchen": "15",
+	  "height": "4",
+	  "price": "100 000",
+	  "floor": "1",
+      	  
+	},
+    {
+      "id": 57,
+      "name": "The Hobbit",
+      "image": "img/books/TheHobbit.jpg",
+      "category": "Books",
+      "label": "In Stock",
+      "price": "11.24",
+      "description": "Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling any farther than his pantry or cellar. But his contentment is disturbed when the wizard Gandalf and a company of dwarves arrive on his doorstep one day to whisk him away on an adventure. They have launched a plot to raid the treasure hoard guarded by Smaug the Magnificent, a large and very dangerous dragon. Bilbo reluctantly joins their quest, unaware that on his journey to the Lonely Mountain he will encounter both a magic ring and a frightening creature known as Gollum."
+    },
+    {
+      "id": 58,
+      "name": "The Silmarillion",
+      "image": "img/books/TheSilmarillion.jpg",
+      "category": "Books",
+      "label": "FREE Shipping",
+      "price": "18.09",
+      "description": "The story of the creation of the world and of the First Age, this is the ancient drama to which the characters in The Lord of the Rings look back and in whose events some of them, such as Elrond and Galadriel, took part. The three Silmarils were jewels created by Feanor, most gifted of the Elves. Within them was imprisoned the Light of the Two Trees of Valinor before the Trees themselves were destroyed by Morgoth, the first Dark Lord. Thereafter, the unsullied Light of Valinor lived on only in the Silmarils, but they were seized by Morgoth and set in his crown, which was guarded in the impenetrable fortress of Angband in the north of Middle-earth. The Silmarillion is the history of the rebellion of Feanor and his kindred against the gods, their exile from Valinor and return to Middle-earth, and their war, hopeless despite all their heroism, against the great Enemy."
+    },
+    {
+      "id": 59,
+      "name": "Unfinished Tales of Numenor and Middle-earth",
+      "image": "img/books/UnfinishedTales.jpg",
+      "category": "Books",
+      "label": "In Stock",
+      "price": "17.74",
+      "description": "Unfinished Tales of Numenor and Middle-earth concentrates on the lands of Middle-earth and comprises Gandalf\"s lively account of how he came to send the Dwarves to the celebrated party at Bag-End, the story of the emergence of the sea god Ulmo before the eyes of Tuor on the coast of Beleriand, and an exact description of the military organization of the Riders of Rohan and the journey of the Black Riders during the hunt for the Ring. It also contains the only surviving story about the long ages of Numenor before its downfall, and all that is known about the Five Wizards sent to Middle-earth as emissaries of the Valar, about the Seeing Stones known as palantiri, and about the legend of Amroth."
+    }
+  ]
+}
